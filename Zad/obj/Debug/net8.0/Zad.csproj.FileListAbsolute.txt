@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\DomashnaLinkedListB\Zad\bin\Debug\net8.0\Zad.exe
+C:\Users\encho\source\repos\DomashnaLinkedListB\Zad\bin\Debug\net8.0\Zad.deps.json
+C:\Users\encho\source\repos\DomashnaLinkedListB\Zad\bin\Debug\net8.0\Zad.runtimeconfig.json
+C:\Users\encho\source\repos\DomashnaLinkedListB\Zad\bin\Debug\net8.0\Zad.dll
+C:\Users\encho\source\repos\DomashnaLinkedListB\Zad\bin\Debug\net8.0\Zad.pdb
+C:\Users\encho\source\repos\DomashnaLinkedListB\Zad\obj\Debug\net8.0\Zad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\DomashnaLinkedListB\Zad\obj\Debug\net8.0\Zad.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\DomashnaLinkedListB\Zad\obj\Debug\net8.0\Zad.AssemblyInfo.cs
+C:\Users\encho\source\repos\DomashnaLinkedListB\Zad\obj\Debug\net8.0\Zad.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\DomashnaLinkedListB\Zad\obj\Debug\net8.0\Zad.dll
+C:\Users\encho\source\repos\DomashnaLinkedListB\Zad\obj\Debug\net8.0\refint\Zad.dll
+C:\Users\encho\source\repos\DomashnaLinkedListB\Zad\obj\Debug\net8.0\Zad.pdb
+C:\Users\encho\source\repos\DomashnaLinkedListB\Zad\obj\Debug\net8.0\Zad.genruntimeconfig.cache
+C:\Users\encho\source\repos\DomashnaLinkedListB\Zad\obj\Debug\net8.0\ref\Zad.dll
